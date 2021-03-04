@@ -12,9 +12,9 @@
 
 ## Datasets
 * Fdataset and Cdataset come from https://github.com/BioinformaticsCSU/BNNR
-* LRSSL come from https://github.com/linwang1982/DRIMC
-* Ldataset come from https://github.com/storyandwine/LAGCN
-* HDVD come from https://github.com/luckymengmeng/SCPMF
+* LRSSL comes from https://github.com/linwang1982/DRIMC
+* Ldataset comes from https://github.com/storyandwine/LAGCN
+* HDVD comes from https://github.com/luckymengmeng/SCPMF
 
 ### Usage
 ```shell
