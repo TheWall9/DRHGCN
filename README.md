@@ -4,6 +4,7 @@
 * python == 3.6.12
 * pytorch == 1.6.0
 * pytorch-lightning==1.0.8
+* torch_geometric
 * scikit-learn 
 * seaborn
 * matplotlib
