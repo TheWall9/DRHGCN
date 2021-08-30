@@ -1,5 +1,4 @@
 # DRHGCN
-
 ## Dependencies
 * python == 3.6.12
 * pytorch == 1.6.0
@@ -12,14 +11,14 @@
 * xlrd
 
 ## Datasets
-* Fdataset and Cdataset come from https://github.com/BioinformaticsCSU/BNNR
-* LRSSL comes from https://github.com/linwang1982/DRIMC
-* Ldataset comes from https://github.com/storyandwine/LAGCN
-* HDVD comes from https://github.com/luckymengmeng/SCPMF
+* Fdataset and Cdataset https://github.com/BioinformaticsCSU/BNNR
+* LRSSL https://github.com/linwang1982/DRIMC
+* Ldataset https://github.com/storyandwine/LAGCN
+* HDVD https://github.com/luckymengmeng/SCPMF
 
 ### Usage
 ```shell
 git clone https://github.com/TheWall9/DRHGCN.git
-cd DRHGCN/code
-python main.py
+cd DRHGCN
+python demo.py
 ```
